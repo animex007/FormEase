@@ -1,5 +1,5 @@
 # FormEase
-Simplifying Form Management for React
+**Simplifying Form Management for React**
 
 FormEase is a modern form management library for React, designed to simplify form handling, validation, submission, and data management. 
 It draws inspiration from Formik and React Hook Form, aiming to provide a lightweight, performant, and intuitive solution for managing forms in React applications.
