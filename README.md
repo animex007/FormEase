@@ -25,4 +25,4 @@ yarn add formease
 For detailed documentation and examples, visit the [FormEase Documentation]().
 
 ## Contributing
-*Contributions are welcome! Please feel free to submit issues and pull requests.*
+*Contributions are welcome! Please feel free to submit issues and pull requests!!*
